@@ -1,0 +1,9 @@
+name: trim
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - anaconda
+dependencies:
+  - trim-galore=0.6.2
+  - pigz

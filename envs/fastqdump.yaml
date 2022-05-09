@@ -1,0 +1,7 @@
+name: fastqdump
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - sra-tools=2.10.9

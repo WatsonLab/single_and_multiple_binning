@@ -1,0 +1,10 @@
+name: metabat2 
+channels:
+  - anaconda
+  - bioconda
+  - conda-forge
+  - defaults
+  - ursky
+dependencies:
+  - metabat2
+  - samtools=1.9
